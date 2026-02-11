@@ -8,9 +8,9 @@ Mundo 2 – Estruturas de controle
 Mundo 3 – Estruturas compostas
 
 Além disso, o repositório também inclui:
-Exercícios de fixação
-Práticas adicionais para reforço de lógica de programação
-Resoluções comentadas quando aplicável
+Exercícios de fixação.
+Práticas adicionais para reforço de lógica de programação.
+Resoluções comentadas quando aplicável.
 
 Objetivo
 Consolidar os fundamentos de Python e fortalecer a base em lógica de programação por meio de prática constante.
